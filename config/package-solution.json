@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "imad-portail-ged",
+    "id": "e7573825-af46-441b-b963-44522dd2f08d",
+    "version": "1.0.0.5",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/imad-portail-ged.sppkg"
+  }
+}
